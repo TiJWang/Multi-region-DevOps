@@ -4,5 +4,6 @@
     "china": ["core", "china"],
     "core": ["core"],
     "us": ["core", "us"],
+    "random": ["random", "core"]
   }
 }
