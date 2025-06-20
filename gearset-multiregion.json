@@ -3,6 +3,6 @@
     "restofworld": ["core", "restofworld"],
     "china": ["core", "china"],
     "core": ["core"],
-    "us": ["us", "core"],
+    "us": ["core", "us"],
   }
 }
