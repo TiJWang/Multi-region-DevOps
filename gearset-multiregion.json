@@ -1,7 +1,7 @@
 {
   "overlays": {
     "restofworld": ["core", "restofworld"],
-    "china": ["core", "china"],
+    "china": ["china", "core"],
     "core": ["core"]
   }
 }
